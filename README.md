@@ -29,7 +29,8 @@ def circulate():
         print("After circulating the values are:",result)
 ```
 ## Output:
-![OUTPUT](./Exp.png)
+![OUTPUT](./Exp.png)![Exp1](https://user-images.githubusercontent.com/119830477/229994479-22db5e3c-a216-4016-89b8-884e8e791f34.png)
+
 
 
 ## Result:
